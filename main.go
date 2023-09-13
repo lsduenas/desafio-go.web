@@ -6,8 +6,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/bootcamp-go/desafio-go-web/cmd/server/router"
-	"github.com/bootcamp-go/desafio-go-web/internal/domain"
+	"github.com/lsduenas/desafio-go-web/cmd/server/router"
+	"github.com/lsduenas/desafio-go-web/internal/domain"
 	"github.com/gin-gonic/gin"
 )
 

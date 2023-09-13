@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bootcamp-go/desafio-go-web/internal/domain"
+	"github.com/lsduenas/desafio-go-web/internal/domain"
 )
 
 type Repository interface {
