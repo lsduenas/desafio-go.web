@@ -6,9 +6,9 @@ import (
 	"os"
 	"strconv"
 
+	"github.com/gin-gonic/gin"
 	"github.com/lsduenas/desafio-go-web/cmd/server/router"
 	"github.com/lsduenas/desafio-go-web/internal/domain"
-	"github.com/gin-gonic/gin"
 )
 
 func main() {
