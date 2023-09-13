@@ -8,10 +8,10 @@ import (
 )
 
 type Service struct {
-	service tickets.Service
+	service tickets.TicketService
 }
 
-func NewService(s tickets.Service) *Service {
+func NewService(s tickets.TicketService) *Service {
 	return &Service{
 		service: s,
 	}
